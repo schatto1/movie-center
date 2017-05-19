@@ -41,4 +41,5 @@ laputa = media.Movie("Laputa: The Castle in the Sky",
 # laputa.show_trailer()
 
 movies = [toy_story, avatar, moana, tangled, kiki, laputa]
-fresh_tomatoes.open_movies_page(movies)
+# fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.VALID_RATINGS)
